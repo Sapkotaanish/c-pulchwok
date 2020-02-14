@@ -1,6 +1,1 @@
-#include<stdio.h>
-#include<conio.h>
-void main() 
-{
-printf("hello pulchwok");
-}
+This is the C project repository for hawa gang of 076bct 'ab'
